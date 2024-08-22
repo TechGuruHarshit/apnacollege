@@ -1,4 +1,4 @@
 # apnacollege
 This is my new  repository for apan college
 <br>
-auther-harshit khandelwal
+auther-harshit khandelwal(alwar)
